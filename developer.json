@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the past 4 years, I have acquired knowledge in both Software Engineering and Cybersecurity. I have hands-on experience in cybersecurity through post-quantum lightweight cryptography research for my FYP, speaking in hacking workshops, and internships in IT Risk Management. Additionally, I’ve experience using Nessus and OpenVAS and assisted in penetration testing with tools like Metasploit, Kali Linux, and SQLMap. I am also currently working as a part-time programming tutor, teaching students technical concepts and fostering their growth."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>’m proficient in security tools such as Shodan, Censys, OWASP ZAP, Burp Suite, and Cuckoo Sandbox, and I’ve worked extensively with GCP, earning six certifications. My expertise includes addressing OWASP Top 10 vulnerabilities, secure coding practices like I/O validation, and encryption techniques. I’m also familiar with SAST/DAST tools and have worked with cloud platforms like AWS and Alibaba Cloud."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Through volunteering and academic clubs like Google Developers Students Clubs GDSC (Cybersecurity Lead), Integrated Sustainability & Urban Creativity ISUC (Vice President), and Rotaract Club (Community Service Director), I’ve developed leadership, collaboration, and public speaking skills. My role as a programming tutor has strengthened my ability to explain complex concepts in simple terms and adapt communication styles to diverse audiences."
                     }
                 }
             },
@@ -36,10 +36,10 @@
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I hold a degree in Cybersecurity and Software Engineering and have independently pursued certifications like Certified Ethical Hacker (CEH) and Alibaba Cloud Certified Associate (ACA). I’ve earned six Google Cloud Platform (GCP) badges and am currently completing labs for my CEH certification.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "high-school": "I have been in SMK Seri Bintang Utara, scoring 8As out of 10 subjects in SPM.",
+                            "university": "Asia Pacific University"
                         }
                     }
                 }
